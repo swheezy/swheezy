@@ -10,13 +10,12 @@
 - ⚡ Fun fact **Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.**
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-<i class="ai ai-google-scholar-square ai-3x"></i>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sebastian3zeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sebastian3zeng" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sebastia zeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastia zeng" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=JICJ16IAAAAJ&hl=de&oi=ao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastia zeng" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=JICJ16IAAAAJ&hl=de&oi=ao" target="blank"><img align="center" class="ai ai-google-scholar-square ai-3x" alt="sebastia zeng" height="30" width="40" /></a>
 </p>
 
 
