@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/sebastian3zeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sebastian3zeng" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sebastia zeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastia zeng" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=JICJ16IAAAAJ&hl=de&oi=ao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastia zeng" height="30" width="40" /></a>
 </p>
 
 
