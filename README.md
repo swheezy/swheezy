@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/sebastian3zeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sebastian3zeng" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sebastia zeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastia zeng" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=JICJ16IAAAAJ&hl=de&oi=ao" target="blank"><img align="center" src="https://camo.githubusercontent.com/16b0dd329d7ac743e62932477bdaf3e24003ff416789387195ed42992f93ad01/687474703a2f2f7777772e7075626c69632e6173752e6564752f7e6d646564656f676c2f696d616765732f677363686f6c61722e706e67" alt="sebastia zeng" height="40" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=JICJ16IAAAAJ&hl=de&oi=ao" target="blank"><img align="center" src="https://camo.githubusercontent.com/16b0dd329d7ac743e62932477bdaf3e24003ff416789387195ed42992f93ad01/687474703a2f2f7777772e7075626c69632e6173752e6564752f7e6d646564656f676c2f696d616765732f677363686f6c61722e706e67" alt="sebastia zeng" height="35" width="35" /></a>
 </p>
 
 
