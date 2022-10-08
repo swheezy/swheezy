@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian !</h1>
-<h3 align="center">A PhD Student for Machine Learnin at the Department of Artificial Intelligence and Human Interfaces (AIHI), University of Salzburg, Austria.</h3>
+<h3 align="center">A PhD Student for Machine Learning at the Department of Artificial Intelligence and Human Interfaces (AIHI), University of Salzburg, Austria.</h3>
 
 <p align="left"> <a href="https://twitter.com/sebastian3zeng" target="blank"><img src="https://img.shields.io/twitter/follow/sebastian3zeng?logo=twitter&style=for-the-badge" alt="sebastian3zeng" /></a> </p>
 
