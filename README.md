@@ -10,6 +10,7 @@
 - ⚡ Fun fact **Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.**
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<i class="ai ai-google-scholar-square ai-3x"></i>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
