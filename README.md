@@ -13,7 +13,8 @@
 <p align="left">
 <a href="https://twitter.com/sebastian3zeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sebastian3zeng" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sebastia zeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastia zeng" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=JICJ16IAAAAJ&hl=de&oi=ao" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pikpng.com%2Fpngvi%2FhJhmoT_google-scholar-twitter-instagram-google-scholar-icon-svg-clipart%2F&psig=AOvVaw3V5rmFZOxPCwdmEtN6iDG1&ust=1666434044565000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDMwduM8foCFQAAAAAdAAAAABAN" alt="sebastia zeng" height="30" width="30" /></a>
+<a href="https://scholar.google.com/citations?user=JICJ16IAAAAJ&hl=de&oi=ao" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/74197299/197174592-5685f0d4-436c-4bd6-8600-cb10fc6f0dfd.png)
+" alt="sebastia zeng" height="30" width="30" /></a>
 </p>
 
 
