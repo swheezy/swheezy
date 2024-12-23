@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/sebastian3zeng" target="blank"><img src="https://img.shields.io/twitter/follow/sebastian3zeng?logo=twitter&style=for-the-badge" alt="sebastian3zeng" /></a> </p>
 
-- 🔭 I’m currently working on [Neural Time Series Forecasting Considering the Analysis of Structural Properties](https://uni-salzburg.elsevierpure.com/de/persons/sebastian-zeng)
+- 🔭 I’m currently working on [Topological and Geometric Aspects in Time Series Learning](https://uni-salzburg.elsevierpure.com/de/persons/sebastian-zeng)
 
-- 📫 How to reach me **sebastian.zeng@plus.ac.at**
+- 📫 How to reach me **zeng_sebastian@yahoo.de**
 
 - ⚡ Fun fact **Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.**
 
